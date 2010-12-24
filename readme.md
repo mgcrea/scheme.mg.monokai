@@ -11,6 +11,7 @@ Monokai scheme for various editors (customized & originals).
 ## Vendors ##
 
 * Best used with the [Consolas font](http://www.microsoft.com/downloads/en/details.aspx?familyid=22e69ae4-7e40-4807-8a86-b3d36fab68d3&displaylang=en) or its open alternative [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
+* More info here [top 10 programming fonts](http://hivelogic.com/articles/top-10-programming-fonts) .
 
 ## Contact ##
 
