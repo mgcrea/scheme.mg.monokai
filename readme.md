@@ -1,15 +1,21 @@
 # MgMonokai #
 
-Monokai scheme for various editors
+Monokai scheme for various editors (customized & originals).
 
-## Schemes -> Editors
+## Schemes & Editors ##
 
 * komodo/MgMonokai.ksf					-> KomodoEdit & KomodoIde
 * notepad++/Monokai.xml					-> Notepad++
 * textmate/Monokai.tmTheme				-> Textmate
 
+## Vendors ##
+
+* Best used with the Consolas font : [download](http://www.microsoft.com/downloads/en/details.aspx?familyid=22e69ae4-7e40-4807-8a86-b3d36fab68d3&displaylang=en)
+* Open alternative is Inconsolata : [download](http://www.levien.com/type/myfonts/inconsolata.html)
+
 ## Contact ##
 
+* <http://twitter.com/olouv>
 * [contact@mg-crea.com](mailto:contact@mg-crea.com)
 * <http://mg-crea.com>
 

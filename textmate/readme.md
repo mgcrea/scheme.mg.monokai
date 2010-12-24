@@ -1,8 +1,6 @@
 # MgMonokai #
 
-Monokai scheme for various editors
-
-## Schemes -> Editors
+## Schemes & Editors
 
 * Monokai.tmTheme					-> Textmate
 

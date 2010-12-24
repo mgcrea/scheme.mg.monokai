@@ -1,7 +1,5 @@
 # MgMonokai #
 
-Monokai scheme for various editors
-
 ## Schemes -> Editors
 
 * Monokai.xml					-> Notepad++
